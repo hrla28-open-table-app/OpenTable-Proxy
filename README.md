@@ -1,6 +1,6 @@
-# OpenTable-Proxy
+# Description-Proxy
 
-Proxy Repo
+OpenTable App
 
 > Project description
 

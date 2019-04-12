@@ -1,15 +1,21 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
-  "author": "",
-  "license": "",
+  "name": "open-table-clone",
+  "version": "1.0.0",
+  "description": "Open Table Clone",
+  "author": "Uttej Gujral",
+  "license": "MIT",
   "engines": {
     "node": ">=6.13.0"
   },
   "scripts": {
+    "start": "nodemon server/index.js"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
